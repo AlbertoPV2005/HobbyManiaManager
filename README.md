@@ -16,7 +16,7 @@ The application simulates the basic operations of a traditional video club. It p
 
 This software was designed for **educational purposes only** and is not intended for production use.
 
-## 🎯 Features
+## 🎯 Features Improved
 
 - View a list of available movies
 - Rent a movie to a client (only if the movie is available)
